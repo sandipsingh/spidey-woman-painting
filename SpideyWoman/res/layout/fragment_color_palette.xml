@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <RadioGroup
+        android:id="@+id/rg_colors"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:checkedButton="@+id/btn_white"
+        android:orientation="horizontal" >
+
+        <RadioButton
+            android:id="@+id/btn_red"
+            style="@style/ColorButton"
+            android:button="@drawable/red" />
+
+        <RadioButton
+            android:id="@+id/btn_orange"
+            style="@style/ColorButton"
+            android:button="@drawable/orange" />
+
+        <RadioButton
+            android:id="@+id/btn_yellow"
+            style="@style/ColorButton"
+            android:button="@drawable/yellow" />
+
+        <RadioButton
+            android:id="@+id/btn_pink"
+            style="@style/ColorButton"
+            android:button="@drawable/pink" />
+
+        <RadioButton
+            android:id="@+id/btn_purple"
+            style="@style/ColorButton"
+            android:button="@drawable/purpale" />
+    <RadioButton
+            android:id="@+id/btn_green"
+            style="@style/ColorButton"
+            android:button="@drawable/green" />
+        
+
+        
+
+        <RadioButton
+            android:id="@+id/btn_black"
+            style="@style/ColorButton"
+            android:button="@drawable/black" />
+       
+        <RadioButton
+            android:id="@+id/btn_a"
+            style="@style/ColorButton"
+            android:button="@drawable/a1" />
+         <RadioButton
+            android:id="@+id/btn_b"
+            style="@style/ColorButton"
+            android:button="@drawable/b1" />
+          <RadioButton
+            android:id="@+id/btn_c"
+            style="@style/ColorButton"
+            android:button="@drawable/c1" />
+           <RadioButton
+            android:id="@+id/btn_d"
+            style="@style/ColorButton"
+            android:button="@drawable/d1" />
+            <RadioButton
+            android:id="@+id/btn_e"
+            style="@style/ColorButton"
+            android:button="@drawable/e1" />
+        <RadioButton
+            android:id="@+id/btn_f"
+            style="@style/ColorButton"
+            android:button="@drawable/f1" />
+       <RadioButton
+            android:id="@+id/btn_g"
+            style="@style/ColorButton"
+            android:button="@drawable/g1" />
+      <RadioButton
+            android:id="@+id/btn_h"
+            style="@style/ColorButton"
+            android:button="@drawable/h1" />
+        
+      <RadioButton
+            android:id="@+id/btn_i"
+            style="@style/ColorButton"
+            android:button="@drawable/i1" />
+    
+        <RadioButton
+            android:id="@+id/btn_j"
+            style="@style/ColorButton"
+            android:button="@drawable/j1" />
+    
+          <RadioButton
+            android:id="@+id/btn_k"
+            style="@style/ColorButton"
+            android:button="@drawable/k1" />
+    
+            <RadioButton
+            android:id="@+id/btn_l"
+            style="@style/ColorButton"
+            android:button="@drawable/l1" />
+    
+              <RadioButton
+            android:id="@+id/btn_m"
+            style="@style/ColorButton"
+            android:button="@drawable/m1" />
+    
+                <RadioButton
+            android:id="@+id/btn_n"
+            style="@style/ColorButton"
+            android:button="@drawable/n1" />
+    
+                  <RadioButton
+            android:id="@+id/btn_o"
+            style="@style/ColorButton"
+            android:button="@drawable/o1" />
+    
+                    <RadioButton
+            android:id="@+id/btn_p"
+            style="@style/ColorButton"
+            android:button="@drawable/p1" />
+    
+                      <RadioButton
+            android:id="@+id/btn_q"
+            style="@style/ColorButton"
+            android:button="@drawable/q1" />
+    
+                        <RadioButton
+            android:id="@+id/btn_r"
+            style="@style/ColorButton"
+            android:button="@drawable/r1" />
+    
+                          <RadioButton
+            android:id="@+id/btn_s"
+            style="@style/ColorButton"
+            android:button="@drawable/s1" />
+    
+                            <RadioButton
+            android:id="@+id/btn_t"
+            style="@style/ColorButton"
+            android:button="@drawable/t1" />
+    
+                              <RadioButton
+            android:id="@+id/btn_u"
+            style="@style/ColorButton"
+            android:button="@drawable/u1" />
+    
+                                <RadioButton
+            android:id="@+id/btn_v"
+            style="@style/ColorButton"
+            android:button="@drawable/v1" />
+    
+                                  <RadioButton
+            android:id="@+id/btn_w"
+            style="@style/ColorButton"
+            android:button="@drawable/w1" />
+    
+                                    <RadioButton
+            android:id="@+id/btn_x"
+            style="@style/ColorButton"
+            android:button="@drawable/x1" />
+    
+                                      <RadioButton
+            android:id="@+id/btn_y"
+            style="@style/ColorButton"
+            android:button="@drawable/y1" />
+    
+                                        <RadioButton
+            android:id="@+id/btn_z"
+            style="@style/ColorButton"
+            android:button="@drawable/z1" />
+    
+                                        
+                                        
+                                        
+         <RadioButton
+            android:id="@+id/btn_aa"
+            style="@style/ColorButton"
+            android:button="@drawable/a2" />
+         <RadioButton
+            android:id="@+id/btn_bb"
+            style="@style/ColorButton"
+            android:button="@drawable/b2" />
+          <RadioButton
+            android:id="@+id/btn_cc"
+            style="@style/ColorButton"
+            android:button="@drawable/c2" />
+           <RadioButton
+            android:id="@+id/btn_dd"
+            style="@style/ColorButton"
+            android:button="@drawable/d2" />
+            <RadioButton
+            android:id="@+id/btn_ee"
+            style="@style/ColorButton"
+            android:button="@drawable/e2" />
+        <RadioButton
+            android:id="@+id/btn_ff"
+            style="@style/ColorButton"
+            android:button="@drawable/f2" />
+       <RadioButton
+            android:id="@+id/btn_gg"
+            style="@style/ColorButton"
+            android:button="@drawable/g2" />
+      <RadioButton
+            android:id="@+id/btn_hh"
+            style="@style/ColorButton"
+            android:button="@drawable/h2" />
+        
+      <RadioButton
+            android:id="@+id/btn_ii"
+            style="@style/ColorButton"
+            android:button="@drawable/i2" />
+    
+        <RadioButton
+            android:id="@+id/btn_jj"
+            style="@style/ColorButton"
+            android:button="@drawable/j2" />
+    
+          <RadioButton
+            android:id="@+id/btn_kk"
+            style="@style/ColorButton"
+            android:button="@drawable/k2" />
+    
+            <RadioButton
+            android:id="@+id/btn_ll"
+            style="@style/ColorButton"
+            android:button="@drawable/l2" />
+    
+              <RadioButton
+            android:id="@+id/btn_mm"
+            style="@style/ColorButton"
+            android:button="@drawable/m2" />
+    
+                <RadioButton
+            android:id="@+id/btn_nn"
+            style="@style/ColorButton"
+            android:button="@drawable/n2" />
+    
+                  <RadioButton
+            android:id="@+id/btn_oo"
+            style="@style/ColorButton"
+            android:button="@drawable/o2" />
+    
+                    <RadioButton
+            android:id="@+id/btn_pp"
+            style="@style/ColorButton"
+            android:button="@drawable/p2" />
+    
+                      <RadioButton
+            android:id="@+id/btn_qq"
+            style="@style/ColorButton"
+            android:button="@drawable/q2" />
+    
+                        <RadioButton
+            android:id="@+id/btn_rr"
+            style="@style/ColorButton"
+            android:button="@drawable/r2" />
+    
+                          <RadioButton
+            android:id="@+id/btn_ss"
+            style="@style/ColorButton"
+            android:button="@drawable/s2" />
+    
+                            <RadioButton
+            android:id="@+id/btn_tt"
+            style="@style/ColorButton"
+            android:button="@drawable/t2" />
+    
+                              <RadioButton
+            android:id="@+id/btn_uu"
+            style="@style/ColorButton"
+            android:button="@drawable/u2" />
+    
+                                <RadioButton
+            android:id="@+id/btn_vv"
+            style="@style/ColorButton"
+            android:button="@drawable/v2" />
+    
+                                  <RadioButton
+            android:id="@+id/btn_ww"
+            style="@style/ColorButton"
+            android:button="@drawable/w2" />
+    
+                                    <RadioButton
+            android:id="@+id/btn_xx"
+            style="@style/ColorButton"
+            android:button="@drawable/x2" />
+    
+                                      <RadioButton
+            android:id="@+id/btn_yy"
+            style="@style/ColorButton"
+            android:button="@drawable/y2" />
+    
+                                        <RadioButton
+            android:id="@+id/btn_zz"
+            style="@style/ColorButton"
+            android:button="@drawable/z2" />
+                                        
+                                        
+                                                                          <RadioButton
+            android:id="@+id/btn_aaa"
+            style="@style/ColorButton"
+            android:button="@drawable/a3" />
+    
+                                        <RadioButton
+            android:id="@+id/btn_bbb"
+            style="@style/ColorButton"
+            android:button="@drawable/b3" />
+        
+    </RadioGroup>
+
+</merge>
